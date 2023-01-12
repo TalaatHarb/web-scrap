@@ -107,7 +107,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<mainClass>
-								net.talaatharb.project.ProjectApplication
+								net.talaatharb.webscrap.WebScrapingApplication
 							</mainClass>
 						</manifest>
 					</archive>
@@ -121,7 +121,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>net.talaatharb.project.ProjectApplication</mainClass>
+							<mainClass>net.talaatharb.webscrap.WebScrapingApplication</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
